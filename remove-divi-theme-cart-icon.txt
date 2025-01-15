@@ -1,0 +1,5 @@
+So the only thing that you need to do to remove it is to add the following code to the custom CSS field your Divi theme options (or your child theme‘s style.css file):
+
+.et-cart-info { display:none; }
+
+This should do the trick. I used this code on one website that I was building for a client.
